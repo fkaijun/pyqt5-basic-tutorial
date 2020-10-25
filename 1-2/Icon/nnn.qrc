@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>call_merge-24px.svg</file>
+  </qresource>
+</RCC>
